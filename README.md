@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimitriuska2020
-- 👀 I’m interested in graph thinking and graph technologies and AI
-- 🌱 I’m currently learning Enterprise Knowledge Graph
+- 👀 I’m interested in graph analytics and AI
+- 🌱 I’m currently working on an Enterprise Knowledge Graph
 - 📫 How to reach me (dimitri.cariolaro@zoho.com)
 
 <!---
